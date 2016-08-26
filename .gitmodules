@@ -1,0 +1,3 @@
+[submodule "CocosTagLib/TagLib"]
+	path = CocosTagLib/TagLib
+	url = https://github.com/taglib/taglib.git
