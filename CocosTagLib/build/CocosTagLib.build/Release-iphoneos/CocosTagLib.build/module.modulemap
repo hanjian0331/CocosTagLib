@@ -1,6 +1,0 @@
-framework module CocosTagLib {
-  umbrella header "CocosTagLib.h"
-
-  export *
-  module * { export * }
-}
