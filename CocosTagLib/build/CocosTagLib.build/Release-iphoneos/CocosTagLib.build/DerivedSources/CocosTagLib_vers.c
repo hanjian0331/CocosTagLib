@@ -1,0 +1,1 @@
+ const unsigned char CocosTagLibVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:CocosTagLib  PROJECT:CocosTagLib-1" "\n"; const double CocosTagLibVersionNumber __attribute__ ((used)) = (double)1.;

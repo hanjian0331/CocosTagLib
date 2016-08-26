@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3EDE294E7D969A5030F75E5717F2830CC27296EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A68C54B9E96622EA017CA5256065BE01AB625AD1" : 0,
+    "3EDE294E7D969A5030F75E5717F2830CC27296EC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1669E7FD-D0CE-45B1-B431-AE21279969EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A68C54B9E96622EA017CA5256065BE01AB625AD1" : "CocosTagLib\/CocosTagLib\/",
+    "3EDE294E7D969A5030F75E5717F2830CC27296EC" : "CocosTagLib\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CocosTagLibTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CocosTagLibTest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hjandyz\/CocosTagLib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3EDE294E7D969A5030F75E5717F2830CC27296EC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hjandyz\/CocosTagLib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A68C54B9E96622EA017CA5256065BE01AB625AD1"
+    }
+  ]
+}
